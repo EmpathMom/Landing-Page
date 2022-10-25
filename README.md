@@ -1,2 +1,3 @@
 # Landing-Page
-About me
+
+Page that will hold all of my projects.
